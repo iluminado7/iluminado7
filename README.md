@@ -11,7 +11,7 @@
 
 - 💬 Pregúntame sobre **Html, CSS, JavaScript, PHP**-
 
-📫 Cómo contactarme **www.linkedin.com/in/franco-romero-9331b3270**<
+📫 Cómo contactarme **fdromero01@gmail.com**<
 
 h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
